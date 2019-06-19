@@ -1,0 +1,9 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
+*.VC.db
+*.VC.VC.opendb
